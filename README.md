@@ -1,4 +1,4 @@
-# Pandas-Explored
+# Pandas
 
 Diving deep into the most important, functions and their use cases in the Panda's framework:-
 
